@@ -1,3 +1,12 @@
 .meu-botao {
     display: none;
 }
+body {
+    background-image: url(imagem.png/fundo\ jake\,.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    perspective: absolute;
+    overflow: show;
+    position: center;
+}
